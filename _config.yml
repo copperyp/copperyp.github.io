@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Antkit
 subtitle:
 description:
-author: John Doe
-language:
+author: Martin
+language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://blog.antkit.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -72,4 +72,4 @@ deploy:
   type: git
   repo: https://github.com/antkit/antkit.github.io.git
   branch: master
-  message: first version using hexo with theme 'next'
+  message: 基础设置，并还原字体CDN为默认google
