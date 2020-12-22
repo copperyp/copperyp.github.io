@@ -1,4 +1,4 @@
-baseURL = "https://copperyp.github.io/copper-blog"
+baseURL = "https://copperyp.github.io"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
