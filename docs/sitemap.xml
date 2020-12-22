@@ -3,26 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://copperyp.github.io/posts/my-first-post/</loc>
+    <loc>https://copperyp.github.io/</loc>
     <lastmod>2020-12-22T11:59:32+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://copperyp.github.io/</loc>
+    <loc>https://copperyp.github.io/posts/my-first-post/</loc>
     <lastmod>2020-12-22T11:59:32+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://copperyp.github.io/posts/</loc>
     <lastmod>2020-12-22T11:59:32+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://copperyp.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://copperyp.github.io/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
